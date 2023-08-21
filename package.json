@@ -1,13 +1,16 @@
 {
-  "name": "threejs-journey-exercise",
+  "name": "threejs-vite-templatee",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "A Three.js template with Vite",
+  "author": "Taofeek",
   "scripts": {
     "dev": "vite",
     "build": "vite build"
   },
   "devDependencies": {
+    "dat.gui": "^0.7.9",
     "vite": "^4.3.9"
   },
   "dependencies": {
